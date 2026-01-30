@@ -5,3 +5,9 @@
 - Handle the scenario where the previous PR gets merged into develop.
 - Update the current branch so it is up to date with the latest develop branch.
 - Create a PR for the current branch after syncing with develop.
+- Create two more branches (3rd and 4th) from develop.
+- Push README changes to the 3rd branch.
+- Cherry-pick the commit from the 3rd branch into the 4th branch.
+- Modify the commit message in the 4th branch.
+- Add three new commits to the 4th branch.
+- Delete the last commit from the 4th branch.
