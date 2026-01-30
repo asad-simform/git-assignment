@@ -3,3 +3,7 @@
 ![Creating branch](./images/created%20a%20branch%20from%20develop.png)
 - Added a commit message script in hooks that will check and validate the commit messages.
 ![Commit message hook](./images/commit%20message%20hook%20added.png)
+- Before performing the squash operation.
+![Before squash](./images/before%20squash.png)
+- After performing the squash operation.
+![After squash](./images/after%20squash.png)
