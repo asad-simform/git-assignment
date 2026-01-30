@@ -1,0 +1,1 @@
+const another1 = "this is a const"

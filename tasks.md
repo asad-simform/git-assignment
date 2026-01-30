@@ -1,0 +1,1 @@
+- Commit changes in the current branch and push it to the remote repository.
