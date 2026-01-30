@@ -9,3 +9,5 @@
 ![After squash](./images/after%20squash.png)
 - After taking the pull of two branches the tree looks like below:
 ![The git graph](./images/After%20branch-one%20and%20two.png)
+- Performed cherry-pick using git cherry-pick hash-val
+![cherry-pick](./images/After%20performing%20the%20cherry-pick.png)
