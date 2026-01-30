@@ -1,4 +1,4 @@
-## Task 1:
+## Task:
 - Created a branch from develop using git checkout -b T01
 ![Creating branch](./images/created%20a%20branch%20from%20develop.png)
 - Added a commit message script in hooks that will check and validate the commit messages.
@@ -7,3 +7,5 @@
 ![Before squash](./images/before%20squash.png)
 - After performing the squash operation.
 ![After squash](./images/after%20squash.png)
+- After taking the pull of two branches the tree looks like below:
+![The git graph](./images/After%20branch-one%20and%20two.png)
