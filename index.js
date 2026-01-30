@@ -1,3 +1,6 @@
+const another1 = "this is a const"
+const another2 = "this is a second const"
+const another3 = "this is a third const"
 const user = "asad"
 const commit1 = "This is for first commit"
 const feat2 = "This is for second commit"
