@@ -1,0 +1,6 @@
+const user = "asad"
+const commit1 = "This is for first commit"
+const feat2 = "This is for second commit"
+const feat3 = "This is for second commit"
+const feat4 = "This is for 4 commit"
+const feat5 = "This is for 5 commit"
